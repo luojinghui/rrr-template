@@ -1,6 +1,9 @@
 # react-router-redux-template
 
-### Get Start
+### Getting Start
+    git clone git@github.com:luojinghui/rrr-template.git
+    cd rrr-template
+
     npm install
     npm start
     http://localhost:8080/
